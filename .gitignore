@@ -1,0 +1,85 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.lib
+*.dll
+*.exe
+*.o
+*.out
+*.app
+*.a
+*.so
+
+# Visual Studio #
+#################
+[Bb]in/
+[Oo]bj/
+build/
+Backup*/
+[Bb]uild[Ll]og.*
+[Dd]ebug/
+[Rr]elease/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.log
+*.scc
+*.suo
+*.user
+*.sln.docstates
+_ReSharper*
+[Bb]uild[Ll]og[Cc]ompile.htm
+
+# Proteus ISIS Backup #
+#######################
+[Ll]ast [Ll]oaded*.dbk
+
+# Project source backup #
+#########################
+*.bak
+
+# WinAVR project files #
+########################
+*.o.d
+*.c.bat
+*.c.err
+*.cpp.bat
+*.cpp.err
+link.bat
+link.err
+*.lss
+*.map
+*.sym
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
